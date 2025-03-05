@@ -1,0 +1,8 @@
+This repository contains Task 6 from my Power BI internship at Cognifyz, focusing on analyzing the sources from which individuals gather investment information. The objective was to identify the most trusted and commonly used sources by investors and present the findings through data visualizations.
+
+Key Insights:
+Financial Consultants are the most preferred source of investment information, indicating that investors rely on expert advice for decision-making.
+Newspapers and Magazines are the second most popular source, suggesting that traditional media still plays a significant role in financial literacy.
+Television and Internet are also used but to a lesser extent, with digital platforms growing in importance, though not yet surpassing traditional sources.
+Investment sources vary based on the type of investment avenue, showing that different financial instruments are associated with different sources of information.
+This Power BI dashboard provides a comprehensive view of investor preferences regarding information sources, helping financial institutions and advisors understand how to better communicate and educate their audience.
