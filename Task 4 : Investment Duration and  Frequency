@@ -1,0 +1,8 @@
+This repository contains Task 4 from my Power BI internship at Cognifyz, focusing on Investment Duration and Frequency Analysis. The objective was to examine how long investors hold their investments and how frequently they monitor them.
+
+Key Insights:
+Most investors hold their investments for more than 5 years, indicating a preference for long-term wealth accumulation.
+A smaller portion of investors opt for short-term investments (0-1 year and 1-3 years), suggesting risk-averse strategies or liquidity needs.
+Monthly monitoring of investments is the most common practice, showing that investors actively track their portfolios.
+Weekly and daily monitoring are less frequent, possibly due to passive investment strategies or reliance on financial advisors.
+This Power BI dashboard provides interactive insights into investment behavior, helping understand investor patience, risk tolerance, and engagement levels in portfolio management.
