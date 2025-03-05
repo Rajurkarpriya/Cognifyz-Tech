@@ -1,0 +1,24 @@
+This repository contains the first task from my Power BI internship at Cognifyz, focusing on data exploration and summary analysis. The goal of this task was to analyze investment patterns, investor demographics, and decision-making factors to gain meaningful insights.
+
+The dashboard provides a comprehensive overview of investor behavior, highlighting key trends in investment choices, reasons for investing, sources of information, and monitoring frequency.
+
+Key Insights:
+The dataset consists of 1120 investors, with 62.5% male and 37.5% female investors.
+Mutual Funds are the most preferred investment avenue, followed by Equity and Fixed Deposits.
+The top reasons for investing include Capital Appreciation and Assured Returns.
+Financial Consultants (40%) and Newspapers (35%) are the primary sources of investment information.
+The majority of investors are focused on Retirement Planning (672 investors) and Health Care (364 investors) as their key saving objectives.
+81% of investors monitor their investments monthly, while fewer investors track them weekly or daily.
+The average investor age is 27.8 years, indicating a younger demographic of investors.
+Dashboard Features:
+Interactive Filters: Users can filter data based on gender, investment sources, and avenues.
+Data Visualization: Includes bar charts, pie charts, and KPI indicators for a clear summary of insights.
+User-Friendly Design: The dashboard is structured to ensure easy navigation and quick insight extraction.
+Technologies Used:
+Power BI for dashboard creation and data visualization.
+Power Query for data cleaning and transformation.
+DAX (Data Analysis Expressions) for key metrics and calculations.
+Future Enhancements:
+Adding predictive analytics to forecast investment trends.
+Implementing advanced data storytelling techniques for better decision-making insights.
+This dashboard serves as an essential data analysis tool for understanding investor behavior, enabling businesses and financial analysts to make informed decisions.
