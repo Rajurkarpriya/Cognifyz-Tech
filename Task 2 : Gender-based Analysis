@@ -1,0 +1,8 @@
+This repository contains the second task from my Power BI internship at Cognifyz, focusing on gender-based investment analysis. The objective of this task was to explore how investment preferences, saving objectives, and financial behaviors vary between male and female investors.
+
+Key Insights:
+Out of 1120 investors, 62.5% are male, and 37.5% are female.
+Male investors show a stronger preference for Mutual Funds and Equity, while female investors prefer Fixed Deposits and PPF (Public Provident Fund).
+The primary saving objective for both genders is Retirement Planning, but female investors also have a higher inclination towards Health Care savings.
+Investment monitoring frequency varies, with a majority of investors reviewing their investments monthly, while fewer monitor them on a weekly or daily basis.
+The Power BI dashboard provides an interactive visualization of these insights, allowing for a clear understanding of gender-based financial behaviors and investment trends.
