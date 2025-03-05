@@ -1,0 +1,13 @@
+This repository contains Task 7 from my Power BI internship at Cognifyz, where I created a comprehensive dashboard that integrates insights from all previous analyses. The goal was to design a single, interactive dashboard that provides a holistic view of investment trends, investor behavior, and financial decision-making patterns.
+
+Key Features:
+Consolidated Insights: The dashboard brings together findings from investment preferences, gender-based analysis, investment duration, saving objectives, reasons for investing, and information sources into a unified view.
+Interactive Visualizations: Users can filter data by gender, investment type, saving goals, and monitoring frequency to explore insights dynamically.
+Trend Analysis: Identifies key investment trends across different demographics, helping businesses and analysts understand investor behavior.
+User-Friendly Design: The dashboard layout is structured for clear readability and easy navigation, ensuring efficient data exploration.
+Key Insights:
+Majority of investors prefer long-term investments (5+ years) with monthly monitoring of their portfolios.
+Retirement Planning and Capital Appreciation are the top investment objectives.
+Financial Consultants and Newspapers are the most trusted sources of investment information.
+Men prefer riskier investment options (Mutual Funds & Equity), whereas women lean towards safer options (Fixed Deposits & PPF).
+This final Power BI dashboard serves as an interactive and data-driven decision-making tool, providing valuable insights into investor behavior, financial motivations, and market trends
